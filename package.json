@@ -1,0 +1,16 @@
+{
+  "name": "pather",
+  "version": "1.0.0",
+  "description": "pather challenge",
+  "main": "pather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Levi Koskan",
+  "license": "ISC",
+  "dependencies": {
+    "exports": "0.0.1",
+    "file-system": "^2.2.1",
+    "require": "^2.4.20"
+  }
+}
